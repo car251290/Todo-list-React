@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+JavaScript Resources
+The React documentation assumes some familiarity with programming in the JavaScript language. You don’t have to be an expert, but it’s harder to learn both React and JavaScript at the same time.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+We recommend going through this JavaScript overview to check your knowledge level. It will take you between 30 minutes and an hour but you will feel more confident learning React.
 
 ## Available Scripts
 
